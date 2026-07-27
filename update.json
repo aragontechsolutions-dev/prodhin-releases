@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.1",
-  "apkUrl": "https://github.com/aragontechsolutions-dev/prodhin-releases/releases/download/v1.0.1/prodhin-1.0.1.apk",
+  "latestVersion": "1.0.2",
+  "apkUrl": "https://github.com/aragontechsolutions-dev/prodhin-releases/releases/download/v1.0.2/prodhin-1.0.2.apk",
   "mandatory": false,
-  "notes": "Prueba de actualizacion"
+  "notes": "Confirmacion de carga por parte de chofer"
 }
