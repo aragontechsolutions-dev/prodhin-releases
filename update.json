@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.5",
-  "apkUrl": "https://github.com/aragontechsolutions-dev/prodhin-releases/releases/download/v1.0.5/prodhin-1.0.5.apk",
+  "latestVersion": "1.0.6",
+  "apkUrl": "https://github.com/aragontechsolutions-dev/prodhin-releases/releases/download/v1.0.6/prodhin-1.0.6.apk",
   "mandatory": false,
-  "notes": "Cambio de logo"
+  "notes": "Logo, nombre SISGESDEL Drivers, sugerencia por distancia y navegacion"
 }
