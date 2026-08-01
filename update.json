@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.1.0",
-  "apkUrl": "https://github.com/aragontechsolutions-dev/prodhin-releases/releases/download/v1.1.0/prodhin-1.1.0.apk",
+  "latestVersion": "1.1.1",
+  "apkUrl": "https://github.com/aragontechsolutions-dev/prodhin-releases/releases/download/v1.1.1/prodhin-1.1.1.apk",
   "mandatory": false,
-  "notes": "Lanzamiento oficial"
+  "notes": "Toast para acciones y update de manual"
 }
