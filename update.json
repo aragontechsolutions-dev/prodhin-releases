@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.1.1",
-  "apkUrl": "https://github.com/aragontechsolutions-dev/prodhin-releases/releases/download/v1.1.1/prodhin-1.1.1.apk",
+  "latestVersion": "1.1.2",
+  "apkUrl": "https://github.com/aragontechsolutions-dev/prodhin-releases/releases/download/v1.1.2/prodhin-1.1.2.apk",
   "mandatory": false,
-  "notes": "Toast para acciones y update de manual"
+  "notes": "Mapa de competencia"
 }
