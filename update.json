@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.1.3",
-  "apkUrl": "https://github.com/aragontechsolutions-dev/prodhin-releases/releases/download/v1.1.3/prodhin-1.1.3.apk",
+  "latestVersion": "1.1.4",
+  "apkUrl": "https://github.com/aragontechsolutions-dev/prodhin-releases/releases/download/v1.1.4/prodhin-1.1.4.apk",
   "mandatory": false,
-  "notes": "Mapa de competencia 2"
+  "notes": "Formas de pago (efectivo/credito), deudas de clientes, precios por categoria y marcar competencia desde la app"
 }
